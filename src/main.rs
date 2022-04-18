@@ -31,7 +31,6 @@ fn main() -> ! {
             Direction::South => {moveSouth()}
             Direction::East => {moveEast()}
         }
-
     }
 }
 
